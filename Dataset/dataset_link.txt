@@ -1,0 +1,6 @@
+Global Blood Test Health Insights 2025-2026
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/kantesti/global-blood-test-health-insights-2025-2026
+Size: 52,000+ samples, 21 features
+Format: CSV
+Target: High_Risk (binary), Risk_Category (multi-class)
